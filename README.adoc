@@ -1,0 +1,33 @@
+= Project: {ROS_Task_1}
+
+=== Author: azmm12.
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 22/07/2022 .
+=== Revision: version#1 .
+=== License: Public Domain .
+
+== Description of project:
+Running Robot Arm Package on ROS Ubuntu with the help of virtual box
+
+== Installation Steps:
+1. Open Virtual box .
+2. Start Ubuntu .
+3. Type commands in "s-m.com.sa/ros.txt" to the terminal of ubuntu.
+4. because im using 20.04 ubuntu change every "kinetic" with "noetic".
+
+=== Folder structure
+
+....
+ ROS_Task_2
+  └── README.adoc      => this file
+  └── ROS-Arm-Sucessfully.png      => picture of running arm on Ros
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
+
