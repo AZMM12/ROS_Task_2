@@ -20,7 +20,7 @@ Running Robot Arm Package on ROS Ubuntu with the help of virtual box
 ....
  ROS_Task_2
   └── README.adoc      => this file
-  └── ROS-Arm-Sucessfully.png      => picture of running arm on Ros
+  └── ROS-Arm-Sucessfully.png      => picture of running arm package on Ros
 ....
 
 === Contributing
