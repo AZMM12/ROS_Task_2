@@ -1,4 +1,4 @@
-= Project: {ROS_Task_2}
+= Project: {Robotic-Arm-Control-Using-ROS}
 
 === Author: azmm12.
 === Email: {Abdulazizmmutiri@gmail.com} .
