@@ -22,12 +22,3 @@ Running Robot Arm Package on ROS Ubuntu with the help of virtual box
   └── README.adoc      => this file
   └── ROS-Arm-Sucessfully.png      => picture of running arm package on Ros
 ....
-
-=== Contributing
-To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
-
